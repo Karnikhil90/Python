@@ -1,7 +1,7 @@
 
 #Using a function only for use multiple times
 
-def isElegible():
+def fun():
 #input segment 
     gender = input("Enter Your Gender : ")
     age = int(input("Enter Your age : "))
@@ -24,4 +24,4 @@ def isElegible():
 
 # Calling the function 
 
-isElegible()
+fun()
