@@ -1,14 +1,13 @@
 # input block 
-user_input = input(("Enter the data : "))
-user_input = user_input.lower()
+sentence = input(("Enter the data : "))
+sentence = sentence.lower()
 
-for vowels in ['a','e','i','o','u']:  # Vowels or the characters
+for vowels in ['a','e','i','o','u']:  # Vowels
 # counter variable
     c = 0
-    character = chr(vowels) # current character
-    for i in user_input:
-        if i == character:
+    for word in sentence:
+        if word == vowels:
             c += 1
-    # only use character 
+    # only use vowels 
     if c != 0: 
-        print(f"{character} \t {c}")
+        print(f"{vowels} \t {c}")
