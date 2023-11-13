@@ -6,7 +6,6 @@ SecondWord = input('Gimme a word not a sentence: ')
 
 FirstWord = FirstWord.strip()
 SecondWord = SecondWord.strip()
-
  
 # comman words 
 print("="*20,'\nThe Comman words :')
