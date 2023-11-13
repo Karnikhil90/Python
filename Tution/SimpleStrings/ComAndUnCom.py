@@ -17,7 +17,6 @@ for word in FirstWord:
 # UnComman words
 print("="*20,'\nThe UnComman words :')
 for word in FirstWord:
-    temp = 0
     cheak = SecondWord.find(word)
     if cheak == -1:
         print(word)

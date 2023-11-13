@@ -9,7 +9,7 @@ currentDay = datetime.now().day
 
 # input segment
 
-person1 = ' 21/11/2000 '
+person1 = ' 17/09/1991 '
 person2 = '21/02/2006'
 
 person1Day, person1Month, person1Year = person1.strip().split('/')
