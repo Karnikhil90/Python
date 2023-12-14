@@ -8,9 +8,9 @@ main = [8,10,15,3,6]
 inpSteps = int(input("Enter how many steps u want :"))
 if inpSteps > 0:
     getSteps = len(main) - inpSteps
+    newMain = []
+    newMain = main[getSteps : ] + main[:getSteps]
+    print(newMain)
 else:
     print("Give a Postive Input, Its a Error!")
 
-newMain = []
-newMain = main[getSteps : ] + main[:getSteps]
-print(newMain)
