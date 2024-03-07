@@ -1,5 +1,3 @@
-To create a modern and user-friendly Markdown (.md) file with proper instructions, you can follow some best practices and include elements for clarity and readability. Here's a basic template to get you started:
-
 
 # Media Converter
 
