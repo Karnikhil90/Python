@@ -58,3 +58,9 @@ pip install ffmpeg-python
 
 - [moviepy](https://zulko.github.io/moviepy/)
 - [ffmpeg-python](https://github.com/kkroening/ffmpeg-python)
+
+- ## Contact Information
+
+- **Twitter:** [@karnikhil90](https://twitter.com/karnikhil90)
+- **Email:** [nikhilkarmakar4020@gmail.com](mailto:nikhilkarmakar4020@gmail.com)
+
