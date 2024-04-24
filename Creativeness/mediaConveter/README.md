@@ -1,7 +1,7 @@
 
-# Media Converter
+# Media Converter ( File type =>.mp4 to .mp3 )
 
-## Introduction
+## Introduction 
 
 This script is designed to convert .mp4 files to .mp3 using Python. It utilizes the 'moviepy' library for video processing and 'ffmpeg-python' for audio extraction.
 
@@ -59,6 +59,9 @@ pip install ffmpeg-python
 
 - ## Contact Information
 
-- **Twitter:** [@karnikhil90](https://twitter.com/karnikhil90)
-- **Email:** [nikhilkarmakar4020@gmail.com](mailto:nikhilkarmakar4020@gmail.com)
+- Email: [![Email](https://img.shields.io/badge/Email-nikhilbroo%40hotmail.com-blue)](mailto:nikhilbroo@hotmail.com)
+- Twitter: [![Twitter](https://img.shields.io/badge/Twitter-%40karnikhil-blue)](https://twitter.com/karnikhil90)
+- GitHub: [![GitHub](https://img.shields.io/badge/GitHub-%40Karnikhil90-green)](https://github.com/Karnikhil90)
+- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nikhil%20Karmakar-blue)](https://www.linkedin.com/in/karnikhil90/))
+
 
