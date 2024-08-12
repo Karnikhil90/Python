@@ -71,7 +71,7 @@ def test_file():
         if user_input_choice.strip() in ['0']:
             break
         
-        if user_input_choice.strip() == ['1']:
+        if user_input_choice.strip() in ['1']:
             print(
         """
             \tType of extension
